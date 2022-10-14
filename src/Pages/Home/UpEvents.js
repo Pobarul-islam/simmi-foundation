@@ -1,7 +1,7 @@
 import React from 'react';
 const UpEvents = () => {
     return (
-      <div>
+      <div className='bg-base-300 pb-5'>
         <h2 className='text-5xl text-orange-500'>Current and Upcoming events</h2>
         <div className="grid mt-20 lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 ml-40 gap-12">
           <div className="card card-compact w-96 bg-base-100 shadow-xl">

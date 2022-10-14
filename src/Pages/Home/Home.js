@@ -1,5 +1,6 @@
 import React from 'react';
 import Banner from './Banner';
+import Fundraisers from './Fundraisers';
 import Help from './Help';
 import MarqueeText from './MarqueeText';
 import Objectives from './Objectives';
@@ -14,7 +15,8 @@ const Home = () => {
             <WelcomeSimmi />
             <Objectives />
             <Help />
-            <UpEvents/>
+            <UpEvents />
+            <Fundraisers/>
         </div>
     );
 };
