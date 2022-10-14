@@ -2,7 +2,7 @@ import React from 'react';
 
 const WelcomeSimmi = () => {
     return (
-      <div className="hero min-h-screen bg-black">
+      <div className=" bg-black">
         <div className="hero-content flex-col lg:flex-row-reverse">
           <img style={{height: "450px", width: "350px"}} src="https://simmifoundation.org/home/images/home/map-dark.png" />
           <div>
