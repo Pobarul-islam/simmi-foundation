@@ -1,5 +1,6 @@
 import React from 'react';
 import Banner from './Banner';
+import Help from './Help';
 import MarqueeText from './MarqueeText';
 import Objectives from './Objectives';
 import WelcomeSimmi from './WelcomeSimmi';
@@ -10,7 +11,8 @@ const Home = () => {
             <MarqueeText />
             <Banner />
             <WelcomeSimmi />
-            <Objectives/>
+            <Objectives />
+            <Help/>
         </div>
     );
 };
