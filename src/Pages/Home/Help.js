@@ -1,8 +1,7 @@
 import React from 'react';
-import './Help.css';
 const Help = () => {
     return (
-        <div>
+        <div className='mb-4'>
         
         <div
           className="min-h-screen hero gap-10"

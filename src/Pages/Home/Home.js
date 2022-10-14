@@ -3,6 +3,7 @@ import Banner from './Banner';
 import Help from './Help';
 import MarqueeText from './MarqueeText';
 import Objectives from './Objectives';
+import UpEvents from './UpEvents';
 import WelcomeSimmi from './WelcomeSimmi';
 
 const Home = () => {
@@ -12,7 +13,8 @@ const Home = () => {
             <Banner />
             <WelcomeSimmi />
             <Objectives />
-            <Help/>
+            <Help />
+            <UpEvents/>
         </div>
     );
 };

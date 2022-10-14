@@ -4,7 +4,7 @@ const WelcomeSimmi = () => {
     return (
       <div className=" bg-black">
         <div className="hero-content flex-col lg:flex-row-reverse">
-          <img style={{height: "450px", width: "350px"}} src="https://simmifoundation.org/home/images/home/map-dark.png" />
+          <img style={{height: "450px", width: "350px"}} src="https://simmifoundation.org/home/images/home/map-dark.png" alt=''/>
           <div>
             <h1 className="text-5xl font-bold text-white">
               Welcome to <span className="text-orange-500">SIMMI</span>
