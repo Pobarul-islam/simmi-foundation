@@ -1,0 +1,22 @@
+[
+    {   "id": "1",
+        "name": "Education",
+        "shortinfo": "We provide free academic education, scholarship, training and other incentives to the children."
+        
+    },
+    {
+      "id": "2",
+      "name": "Livelihood",
+      "shortinfo": "We implement various schemes to provide livelihood and uplift the poor in society."
+    },
+    {
+      "id": "3",
+      "name": "Healthcare",
+      "shortinfo": "We are increasing awareness on Sanitization and providing people with access to better nutrition, clean water and toilets."
+    },
+    {
+      "id": "4",
+      "name": "Women and Youth Empowerment",
+      "shortinfo": "We are increasing awareness on Sanitization and providing people with access to better nutrition, clean water and toilets."
+    }
+]
