@@ -1,12 +1,14 @@
 import React from 'react';
 import Banner from './Banner';
 import MarqueeText from './MarqueeText';
+import WelcomeSimmi from './WelcomeSimmi';
 
 const Home = () => {
     return (
-        <div>
+        <div className=''>
             <MarqueeText />
-            <Banner/>
+            <Banner />
+            <WelcomeSimmi/>
         </div>
     );
 };

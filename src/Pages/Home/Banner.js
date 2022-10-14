@@ -38,7 +38,7 @@ const Banner = () => {
     fontWeight: "bold",
   };
   return (
-    <div className="w-full">
+    <div className="">
       <div style={{ textAlign: "center" }}>
         <div
           style={{
@@ -49,7 +49,7 @@ const Banner = () => {
             data={data}
             time={2000}
             width="1400px"
-            height="564px"
+            height="600px"
             radius="5px"
             slideNumberStyle={slideNumberStyle}
             captionPosition="bottom"
@@ -59,7 +59,7 @@ const Banner = () => {
             pauseIconSize="40px"
             slideBackgroundColor="darkgrey"
             slideImageFit="cover"
-            style={{paddingBottom: "10px"}}
+           
           />
         </div>
       </div>
